@@ -10,7 +10,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
+# NFTime - Blockchain project
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -37,7 +37,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project Backend
+## About The Project
 
 NFTime is a simple NFT marketplace that makes buying, selling, and minting NFTs easy.
 
